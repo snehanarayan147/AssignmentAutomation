@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-14T17:17:27 IST" name="Default suite" finished-at="2021-09-14T17:18:52 IST" duration-ms="84763">
+    <groups>
+    </groups>
+    <test started-at="2021-09-14T17:17:27 IST" name="Default test" finished-at="2021-09-14T17:18:52 IST" duration-ms="84763">
+      <class name="qualicoach.EnrollIntoCourse">
+        <test-method is-config="true" signature="testLogin()[pri:0, instance:qualicoach.EnrollIntoCourse@581ac8a8]" started-at="2021-09-14T17:17:27 IST" name="testLogin" finished-at="2021-09-14T17:17:45 IST" duration-ms="17935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="checkLogin()[pri:1, instance:qualicoach.EnrollIntoCourse@581ac8a8]" started-at="2021-09-14T17:17:45 IST" name="checkLogin" finished-at="2021-09-14T17:18:24 IST" duration-ms="39097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method signature="enroll()[pri:2, instance:qualicoach.EnrollIntoCourse@581ac8a8]" started-at="2021-09-14T17:18:24 IST" name="enroll" finished-at="2021-09-14T17:18:40 IST" duration-ms="15598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enroll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qualicoach.EnrollIntoCourse@581ac8a8]" started-at="2021-09-14T17:18:40 IST" name="tearDown" finished-at="2021-09-14T17:18:52 IST" duration-ms="11672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qualicoach.EnrollIntoCourse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
